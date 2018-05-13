@@ -18,3 +18,5 @@ https://github.com/UoA-eResearch/IMD_Qualtrics_Module/blob/master/Instructions%2
 
 ### Results:
 ![Results](https://github.com/UoA-eResearch/IMD_Qualtrics_Module/blob/master/Results.PNG)
+
+[![Analytics](https://github-ga-beacon.appspot.com/UA-118992694-3/imd-analytics)](https://github.com/UoA-eResearch/IMD_Qualtrics_Module)

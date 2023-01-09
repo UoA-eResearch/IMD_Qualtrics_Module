@@ -8,7 +8,7 @@ The [IMD Interactive Report Website](https://imdmap.auckland.ac.nz/) and its Qua
 
 ## Setup
 
-Download the .zip file by clicking the 'Clone or download' button. Create a new survey from existing in your Qualtrics account using the IMD_AddressToDatazone_ID.qsf file you just downloaded. You can save the block to your Qualtrics library and insert it in any of your existing surveys. Add the embedded data variables as described in the instructions PDF in order to receive additional deprivation information about the participant's data zone.
+Download the .zip file by clicking on "Code", then "Download ZIP" link on GitHub. Create a new survey from existing in your Qualtrics account using the IMD_AddressToDatazone_ID.qsf file you just downloaded. You can save the block to your Qualtrics library and insert it in any of your existing surveys. Add the embedded data variables as described in the instructions PDF in order to receive additional deprivation information about the participant's data zone.
 
 ### Preview:
 ![Preview](https://github.com/UoA-eResearch/IMD_Qualtrics_Module/blob/master/Preview.PNG)
